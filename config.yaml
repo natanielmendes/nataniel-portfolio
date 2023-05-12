@@ -129,18 +129,18 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "https://drive.google.com/file/d/1thRIJO-UyvVyzQ9Kf1UNu_WqI85VUzn6/view?usp=sharing"
       download: true
-      newPage: false
+      newPage: true
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
-        - icon: fab fa-twitter
-          url: https://example.com
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+          url: https://github.com/natanielmendes
+        - icon: fab fa-linkedin
+          url: https://www.linkedin.com/in/natanielcarvalho/?locale=en_US
+      # customIcons:
+      #   - icon: /fav.png
+      #     url: "https://example.com"
 
   # About
   about:
@@ -158,8 +158,10 @@ params:
         - "Terraform"
         - "Observability"
         - "CI/CD"
-        - "Programming (Node.js, Go, Java, Typescript, Javascript, React)"
-        - "Testing (Cypress, Selenium, Jest, Mocha, Chai)"
+        - "Programming (Node.js, Go, Java, Kotlin, Typescript, Javascript, React)"
+        - "Testing (Cypress, Selenium, Jest, Mocha, Chai, JUnit)"
+        - "SQL and NoSQL databases (Oracle, MySQL, MongoDB, CouchDB)"
+        - "Agile Methodologies (SCRUM, Kanban)"
 
   # Experience
   experience:
@@ -237,7 +239,12 @@ params:
           - [Hyperledger Fabric](https://www.hyperledger.org/use/fabric)
           - [R3 Corda](https://r3.com/products/corda/)
           - Continuous Integration / Delivery in AWS
-          - Node.JS Backend and React Frontend Development
+          - Node.JS, Java, Kotlin, and Symfony (PHP) Backend
+          - React with Redux Frontend Development
+
+          Successfully delivered 2 projects to clients:
+          - [CertDox](https://certdox.com.br/) (Blockchain-based platform provides secure document notarization services.).
+          - [88i](https://88iseguradora.digital/) (Platform that leverages smart contracts to facilitate seamless business logic among multiple parties including customers, insurance providers, re-insurance companies, and gadget maintenance service providers.).
 
   # Education
   education:
