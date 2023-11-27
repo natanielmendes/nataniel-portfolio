@@ -169,23 +169,9 @@ params:
     # title: "Custom Name"
     items:
       - job: Senior Software Engineer
-        company: Consulting for Professional Connections
-        date: Nov 2022 - Now
-        featuredLink:
-          enable: false
-        content: |
-          - Typescript and Javascript as Programming Languages.
-          - React 18 with Redux and Angular 15 Frontend.
-          - NodeJS + Express.js Backend Development.
-          - Graphql, MongoDB, MySQL, as well as other SQL and NoSQL databases.
-          - CI/CD with AWS, Kubernetes, Terraform, GitHub Actions, GitHub Pipelines, and Heroku.
-          - Jest, Mocha, Chai, and angular/core/testing applied to Unit and Integration Tests.
-          - Cypress for e2e testing.
-
-      - job: Senior Software Engineer
-        company: San Francisco App Works
-        companyUrl: https://www.sfappworks.com/
-        date: Nov 2021 - Nov 2022
+        company: GoAlto
+        companyUrl: https://www.goalto.io/
+        date: Nov 2021 - Now
         featuredLink:
           enable: true
           name: View the project
@@ -197,12 +183,13 @@ params:
             - [Golden Globes](https://www.goldenglobes.com/)
             - [Moola Market](https://moola.market/)
             - [Fleeting](https://www.fleeting.us/)
-          - NodeJS + Express.js Backend Development.
-          - React with Redux and Angular 12+ Frontend, also using Gatsby for performance with Drupal as CMS.
-          - Graphql, SQL, and NoSQL databases.
-          - Jest, Mocha, and Chai applied to Unit and Integration Tests.
+            - [San Francisco App Works](https://www.sfappworks.com/)
+          - Typescript / Javascript NodeJS + Express.js, and Go Backend Development.
+          - Typescript / Javascript React 18+ with Redux and Angular 17+ Frontend, also using Gatsby for performance with Drupal as CMS.
+          - Graphql, MongoDB, MySQL, as well as other SQL and NoSQL databases.
+          - Jest, Mocha, Chai, and angular/core/testing applied to Unit and Integration Tests / Cypress for e2e testing.
           - Blockchain Technologies: Celo and Ethereum.
-          - Continuous Integration and Deployment configuring pipelines on Jenkins with Docker + Compose, GitHub Actions, GitHub Pipelines, AWS, and Heroku.
+          - Continuous Integration and Deployment configuring pipelines on Jenkins with Docker + Compose, GitHub Actions, GitHub Pipelines, AWS, Kubernetes, Terraform, and Heroku.
           - REST API documentation using Swagger.
           - SCRUM Agile Methodology.
 
