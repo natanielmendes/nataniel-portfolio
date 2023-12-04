@@ -190,7 +190,7 @@ params:
           - Graphql, MongoDB, MySQL, as well as other SQL and NoSQL databases.
           - Jest, Mocha, Chai, and angular/core/testing applied to Unit and Integration Tests / Cypress for e2e testing.
           - Blockchain Technologies: Celo and Ethereum.
-          - Continuous Integration and Deployment configuring pipelines on Jenkins with Docker + Compose, GitHub Actions, GitHub Pipelines, AWS, Kubernetes, Terraform, and Heroku.
+          - CI/CD pipelines on Jenkins with Docker + Compose, Github Actions, Sentry, Kubernetes, Terraform, GitHub Actions, GitHub Pipelines, AWS, and Heroku.
           - REST API documentation using Swagger.
           - SCRUM Agile Methodology.
 
