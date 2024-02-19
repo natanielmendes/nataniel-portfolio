@@ -4,4 +4,4 @@
 
 This project lists my certifications, studies and work experiences.
 
-This content is publicly available at https://nataniel.me or https://natanielmendes.com
+The website is publicly accessible from https://nataniel.me or https://natanielmendes.com
