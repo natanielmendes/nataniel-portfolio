@@ -166,7 +166,7 @@ params:
   # Experience
   experience:
     enable: true
-    # title: "Custom Name"
+    title: "Recent Experiences"
     items:
       - job: Senior Software Engineer
         company: GoAlto
@@ -186,7 +186,7 @@ params:
             - [Fleeting](https://www.fleeting.us/)
             - [San Francisco App Works](https://www.sfappworks.com/)
           - Typescript / Javascript NodeJS + Express.js, and Go Backend Development.
-          - Typescript / Javascript React 18+ with Redux and Angular 17+ Frontend, also using Gatsby for performance with Drupal as CMS.
+          - Typescript / Javascript React 18+ with Redux and Angular 17+ Frontend, using Gatsby for performance with Drupal as CMS.
           - Graphql, MongoDB, MySQL, as well as other SQL and NoSQL databases.
           - Jest, Mocha, Chai, and angular/core/testing applied to Unit and Integration Tests / Cypress for e2e testing.
           - Blockchain Technologies: Celo and Ethereum.
