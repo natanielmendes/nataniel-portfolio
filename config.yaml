@@ -166,7 +166,7 @@ params:
   # Experience
   experience:
     enable: true
-    title: "Recent Experiences"
+    title: 'Recent Experiences'
     items:
       - job: Senior Software Engineer
         company: GoAlto
@@ -297,7 +297,7 @@ params:
         content: Annual ceremony that honors the best achievements in film and television, both domestic and foreign. The event is organized by the Hollywood Foreign Press Association (HFPA) and typically takes place in January. The ceremony is widely viewed as a precursor to the Academy Awards, and it attracts a star-studded audience of celebrities and industry professionals from around the world. Awards are presented in various categories, including Best Picture, Best Director, Best Actor, Best Actress, Best Television Series, and more.
         image: /images/projects/gg-trophy-logo-2x.png
         featured:
-          name: Visit Page
+          name: Golden Globe Awards Page
           link: https://www.goldenglobes.com/
         badges:
           - React
