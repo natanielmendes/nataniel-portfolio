@@ -166,7 +166,7 @@ params:
   # Experience
   experience:
     enable: true
-    title: Recent Experiences
+    title: Latest Experiences
     items:
       - job: Senior Software Engineer
         company: GoAlto
