@@ -177,7 +177,7 @@ params:
           name: View the project
           url: https://www.goldenglobes.com/
         content: |
-          - Defined architecture details with stakeholders, and mentored 7 peers over 4 highly accessed comsumer-facing websites.
+          - Defined architecture details with stakeholders, and mentored 7 peers over 4 highly accessed consumer-facing websites.
           - Improved GraphQL queries for Golden Globes, reducing page load time by 34%, and also configured fallback mechanisms.
           - Enhanced [Moola Market](https://moola.market/) API interaction efficiency by 37% through the implementation of robust error handling and log tracking mechanisms, leading to significantly improved overall performance.
           - Projects:
