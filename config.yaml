@@ -193,6 +193,7 @@ params:
           - Jest, Mocha, Chai, and angular/core/testing applied to Unit and Integration Tests / Cypress for e2e testing.
           - Blockchain Technologies: Celo and Ethereum.
           - CI/CD pipelines on Jenkins with Docker + Compose, Github Actions, Sentry, Kubernetes, Terraform, GitHub Actions, GitHub Pipelines, AWS, and Heroku.
+          - Grafana and Prometheus integrated with New Relic for monitoring.
           - REST API documentation using Swagger.
           - SCRUM Agile Methodology.
 
