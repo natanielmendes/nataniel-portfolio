@@ -309,6 +309,7 @@ params:
           - Jest
           - Graphql
           - Drupal
+          - Typescript
           - Javascript
           - SCSS
         # links
