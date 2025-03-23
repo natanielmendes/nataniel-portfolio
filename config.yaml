@@ -160,7 +160,7 @@ params:
         - CI/CD
         - Programming (Node.js, Go, Java, Kotlin, Typescript, Javascript, React, Angular)
         - Testing (Cypress, Selenium, Jest, Mocha, Chai, JUnit)
-        - SQL and NoSQL databases (Oracle, MySQL, MongoDB, CouchDB)
+        - SQL and NoSQL databases (Oracle, MySQL, Postgres, MongoDB, CouchDB)
         - Agile Methodologies (SCRUM, Kanban)
 
   # Experience
