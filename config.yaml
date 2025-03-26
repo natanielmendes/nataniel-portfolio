@@ -179,9 +179,11 @@ params:
         content: |
           - Defined architecture details with stakeholders, and mentored 7 peers over 4 highly accessed consumer-facing websites.
           - Improved GraphQL queries for Golden Globes, reducing page load time by 34%, and also configured fallback mechanisms.
+          - Mentored two new team members in Angular at [Fitwel](https://www.fitwel.org/), providing guidance on best practices, design patterns, and architecture. Created/maintained 50+ reusable frontend library components, led Angular version migrations, and tweaked CI/CD pipelines from 2023 to 2025.
           - Enhanced [Moola Market](https://moola.market/) API interaction efficiency by 37% through the implementation of robust error handling and log tracking mechanisms, leading to significantly improved overall performance.
           - Projects:
             - [Golden Globes](https://www.goldenglobes.com/)
+            - [Fitwel - Center for Active Design](https://www.fitwel.org/)
             - [Moola Market](https://moola.market/)
             - [Fleeting](https://www.fleeting.us/)
             - [San Francisco App Works](https://www.sfappworks.com/)
