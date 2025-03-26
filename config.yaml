@@ -159,7 +159,7 @@ params:
         - Observability
         - CI/CD
         - Programming Languages (Typescript, Javascript, Go, Java, Kotlin)
-        - Frameworks / Libraries (Node.js, Express.js, React, Angular, Next.js, NestJS, Spring Boot)
+        - Frameworks / Libraries (Node.js, Express.js, React, Angular, NEXT, NestJS, Spring Boot)
         - Testing (Cypress, Selenium, Jest, Mocha, Chai, JUnit)
         - SQL and NoSQL databases (Oracle, MySQL, Postgres, MongoDB, CouchDB)
         - Agile Methodologies (SCRUM, Kanban)
