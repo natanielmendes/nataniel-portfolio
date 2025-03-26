@@ -158,7 +158,7 @@ params:
         - Terraform
         - Observability
         - CI/CD
-        - Programming (Node.js, Go, Java, Kotlin, Typescript, Javascript, React, Angular)
+        - Programming (Node.js, Go, Java, Kotlin, Typescript, Javascript, React, Next.js, Angular)
         - Testing (Cypress, Selenium, Jest, Mocha, Chai, JUnit)
         - SQL and NoSQL databases (Oracle, MySQL, Postgres, MongoDB, CouchDB)
         - Agile Methodologies (SCRUM, Kanban)
