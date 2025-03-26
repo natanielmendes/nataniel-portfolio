@@ -188,7 +188,7 @@ params:
             - [Fleeting](https://www.fleeting.us/)
             - [San Francisco App Works](https://www.sfappworks.com/)
           - Typescript / Javascript NodeJS + Express.js, NestJS, and Go Backend Development.
-          - Typescript / Javascript React 18+ with Redux and Angular 17+ Frontend, using Gatsby for performance with Drupal as CMS.
+          - Typescript / Javascript React 18+ with Redux, Next.js and Angular 17+ Frontend, using Gatsby for performance with Drupal as CMS.
           - Next.js as full-stack framework.
           - Graphql, MongoDB, MySQL, as well as other SQL and NoSQL databases.
           - Use of Knex.js and Prisma for Object-Relational Mapping (ORM).
