@@ -149,7 +149,7 @@ params:
     image: /images/me.jpg
     content: |-
       The term DevOps holds immense value to me as it reflects my expertise in both development and operations. After starting my journey as a Full Stack Developer in 2014, I integrated DevOps into my work routine in 2018. Since then, I have effectively deployed resources on AWS using Terraform, created CI/CD pipelines, and managed Kubernetes in production environments. By leveraging my development skills, I have successfully assisted countless developers in enhancing their operations experience and delivering superior software outcomes.
-      Currently, I'm working on a project that promotes healthy and sustainable design practices, aiming to improve people's lives in the society.
+      Currently, I'm working on a project that promotes healthy and sustainable design practices, aiming to improve people's lives in the society at Fitwel.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
