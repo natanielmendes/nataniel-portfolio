@@ -193,7 +193,7 @@ params:
           - Next.js as full-stack framework.
           - Graphql, MongoDB, MySQL, as well as other SQL and NoSQL databases.
           - Use of Knex.js and Prisma for Object-Relational Mapping (ORM).
-          - Jest, Mocha, Chai, and angular/core/testing applied to Unit and Integration Tests / Cypress for e2e testing.
+          - Jest, Mocha, Chai, and angular/core/testing applied to Unit and Integration Tests / Cypress for E2E testing.
           - Blockchain Technologies: Celo and Ethereum.
           - CI/CD pipelines on Jenkins with Docker + Compose, Github Actions, Sentry, Kubernetes, Terraform, GitHub Actions, GitHub Pipelines, AWS, and Heroku.
           - Grafana and Prometheus integrated with New Relic for monitoring / observability.
