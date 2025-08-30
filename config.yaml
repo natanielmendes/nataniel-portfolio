@@ -303,7 +303,7 @@ params:
     items:
       - title: InkBye
         content: |
-          - Founder and sole developer, managing the project end-to-end and attracting 120+ beta users within the first launch phase.
+          - Founder and sole developer, managing the project end-to-end and attracting 120+ beta users within the first launch phase.\n
           - Defined and implemented the full tech stack and architecture, ensuring the system could scale to handle 10,000+ projected users.
           - Built DevOps pipelines and cloud infrastructure, reducing deployment overhead by 80%.
           - Implemented enterprise-grade security practices, including OAuth 2.0, data encryption, and infrastructure hardening, ensuring compliance with industry standards.
