@@ -137,7 +137,7 @@ params:
         - icon: fab fa-github
           url: https://github.com/natanielmendes
         - icon: fab fa-linkedin
-          url: https://www.linkedin.com/in/natanielcarvalho/?locale=en_US
+          url: https://www.linkedin.com/in/natanielcarvalho
       # customIcons:
       #   - icon: /fav.png
       #     url: "https://example.com"
